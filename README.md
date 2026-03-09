@@ -1,2 +1,2 @@
 # jar-mails
-E-Mail project for BlackBerry 7
+E-Mail project for BlackBerry OS 7
